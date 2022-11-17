@@ -1,1 +1,2 @@
-# goit-hw-js-09
+# goit-js-hw-09
+Homework #9 - JS
